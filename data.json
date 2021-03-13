@@ -1,0 +1,5618 @@
+[
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cdfc87effcf370414001c82",
+            "name": "Lungomare Trieste",
+            "location": {
+                "address": "Lungomare Trieste",
+                "lat": 40.67679759855568,
+                "lng": 14.762277603149414,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67679759855568,
+                        "lng": 14.762277603149414
+                    }
+                ],
+                "distance": 802,
+                "postalCode": "84122",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Lungomare Trieste",
+                    "84122 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "56aa371be4b08b9a8d5734c3",
+                    "name": "Waterfront",
+                    "pluralName": "Waterfronts",
+                    "shortName": "Waterfront",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cdfc87effcf370414001c82-0"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4b8018e2f964a520e85130e3",
+            "name": "Bar Nettuno",
+            "location": {
+                "address": "Lungomare Trieste, 136",
+                "lat": 40.6766862606864,
+                "lng": 14.762688245560069,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6766862606864,
+                        "lng": 14.762688245560069
+                    }
+                ],
+                "distance": 792,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Lungomare Trieste, 136",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c9941735",
+                    "name": "Ice Cream Shop",
+                    "pluralName": "Ice Cream Shops",
+                    "shortName": "Ice Cream",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4b8018e2f964a520e85130e3-1"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "578fcdbecd10f99c799f11c4",
+            "name": "Criscemunno",
+            "location": {
+                "address": "via Romualdo II",
+                "lat": 40.680445320560835,
+                "lng": 14.759443811286976,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.680445320560835,
+                        "lng": 14.759443811286976
+                    }
+                ],
+                "distance": 766,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "via Romualdo II",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-578fcdbecd10f99c799f11c4-2"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4f9c0159e4b008dde16820cb",
+            "name": "Spiaggia Santa Teresa",
+            "location": {
+                "lat": 40.67756858124373,
+                "lng": 14.755689797472717,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67756858124373,
+                        "lng": 14.755689797472717
+                    }
+                ],
+                "distance": 1183,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e2941735",
+                    "name": "Beach",
+                    "pluralName": "Beaches",
+                    "shortName": "Beach",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4f9c0159e4b008dde16820cb-3"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c82a7ba51ada1cdc4c91e10",
+            "name": "Osteria Angolo Masuccio",
+            "location": {
+                "address": "Via Masuccio Salernitano",
+                "lat": 40.677633461823234,
+                "lng": 14.761259260225401,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.677633461823234,
+                        "lng": 14.761259260225401
+                    }
+                ],
+                "distance": 792,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Masuccio Salernitano",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c82a7ba51ada1cdc4c91e10-4"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "56103cf5498e239b1e7208af",
+            "name": "La Smorfia",
+            "location": {
+                "address": "Piazza Alfano I, 5",
+                "lat": 40.68022,
+                "lng": 14.75943,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.68022,
+                        "lng": 14.75943
+                    }
+                ],
+                "distance": 775,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Alfano I, 5",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-56103cf5498e239b1e7208af-5"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4ee293bd5c5cfd2133f7c8ad",
+            "name": "L'unico",
+            "location": {
+                "lat": 40.67874794166573,
+                "lng": 14.75924972183761,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67874794166573,
+                        "lng": 14.75924972183761
+                    }
+                ],
+                "distance": 856,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11e941735",
+                    "name": "Cocktail Bar",
+                    "pluralName": "Cocktail Bars",
+                    "shortName": "Cocktail",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4ee293bd5c5cfd2133f7c8ad-6"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4d1dcbdf2d5f8eecd88078cc",
+            "name": "Piazza Flavio Gioia, La Rotonda",
+            "location": {
+                "address": "Piazza Flavio Gioia",
+                "lat": 40.67749361716722,
+                "lng": 14.763062190869434,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67749361716722,
+                        "lng": 14.763062190869434
+                    }
+                ],
+                "distance": 701,
+                "postalCode": "84100",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Flavio Gioia",
+                    "84100 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d164941735",
+                    "name": "Plaza",
+                    "pluralName": "Plazas",
+                    "shortName": "Plaza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4d1dcbdf2d5f8eecd88078cc-7"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4fa594a0e4b02e6a55850a01",
+            "name": "Ristorante 34 \"da Lucia\"",
+            "location": {
+                "lat": 40.66998438082382,
+                "lng": 14.728826198533541,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.66998438082382,
+                        "lng": 14.728826198533541
+                    }
+                ],
+                "distance": 3597,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c0941735",
+                    "name": "Mediterranean Restaurant",
+                    "pluralName": "Mediterranean Restaurants",
+                    "shortName": "Mediterranean",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4fa594a0e4b02e6a55850a01-8"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c97bee6f7cfa1cde00ad115",
+            "name": "Saltimbocca News",
+            "location": {
+                "address": "via torrione",
+                "lat": 40.67307094401789,
+                "lng": 14.77634439550996,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67307094401789,
+                        "lng": 14.77634439550996
+                    }
+                ],
+                "distance": 1257,
+                "postalCode": "84123",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "via torrione",
+                    "84123 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c5941735",
+                    "name": "Sandwich Place",
+                    "pluralName": "Sandwich Places",
+                    "shortName": "Sandwiches",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c97bee6f7cfa1cde00ad115-9"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c30e51b09a99c748d2b0b2a",
+            "name": "l'Office",
+            "location": {
+                "address": "Corso Vittorio Emanuele",
+                "crossStreet": "Via Torretta",
+                "lat": 40.67800182394569,
+                "lng": 14.763162732124329,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67800182394569,
+                        "lng": 14.763162732124329
+                    }
+                ],
+                "distance": 651,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Corso Vittorio Emanuele (Via Torretta)",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11e941735",
+                    "name": "Cocktail Bar",
+                    "pluralName": "Cocktail Bars",
+                    "shortName": "Cocktail",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c30e51b09a99c748d2b0b2a-10"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4d69840f60366a3153535106",
+            "name": "Ristorante Cicirinella",
+            "location": {
+                "address": "Via Antonio Genovesi, 28",
+                "lat": 40.679813207991,
+                "lng": 14.760750450425903,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.679813207991,
+                        "lng": 14.760750450425903
+                    }
+                ],
+                "distance": 689,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Antonio Genovesi, 28",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4d69840f60366a3153535106-11"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c93aba458d4b60c6e762129",
+            "name": "Bar Nettuno",
+            "location": {
+                "address": "Via Roberto Santa Maria",
+                "lat": 40.669048738421566,
+                "lng": 14.789877876012287,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.669048738421566,
+                        "lng": 14.789877876012287
+                    }
+                ],
+                "distance": 2369,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roberto Santa Maria",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c9941735",
+                    "name": "Ice Cream Shop",
+                    "pluralName": "Ice Cream Shops",
+                    "shortName": "Ice Cream",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c93aba458d4b60c6e762129-12"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4f08f46de4b0e624d7b65165",
+            "name": "Teatro Vittoria",
+            "location": {
+                "address": "Via Roma",
+                "lat": 40.6786858294665,
+                "lng": 14.756853874590469,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6786858294665,
+                        "lng": 14.756853874590469
+                    }
+                ],
+                "distance": 1040,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11f941735",
+                    "name": "Nightclub",
+                    "pluralName": "Nightclubs",
+                    "shortName": "Nightclub",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4f08f46de4b0e624d7b65165-13"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "51bcd51b498e763c13169a70",
+            "name": "Hydra",
+            "location": {
+                "address": "Via Antonio Mazza 30",
+                "lat": 40.67837662382455,
+                "lng": 14.761004272116306,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67837662382455,
+                        "lng": 14.761004272116306
+                    }
+                ],
+                "distance": 755,
+                "postalCode": "84100",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Antonio Mazza 30",
+                    "84100 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-51bcd51b498e763c13169a70-14"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4f08abc5e4b0e8907ad58691",
+            "name": "Osteria Nonna Maria",
+            "location": {
+                "address": "Via Roma, 82",
+                "crossStreet": "Vicolo Massiccio Salernitano, 77",
+                "lat": 40.67788667064549,
+                "lng": 14.760557097034377,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67788667064549,
+                        "lng": 14.760557097034377
+                    }
+                ],
+                "distance": 818,
+                "postalCode": "84100",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma, 82 (Vicolo Massiccio Salernitano, 77)",
+                    "84100 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4f08abc5e4b0e8907ad58691-15"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4fe97c9e108145b9293a908f",
+            "name": "Laltrolato Think Eat Drink",
+            "location": {
+                "address": "Piazza flavio gioia 26",
+                "crossStreet": "Via Velia",
+                "lat": 40.67742714918772,
+                "lng": 14.763156966523743,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67742714918772,
+                        "lng": 14.763156966523743
+                    }
+                ],
+                "distance": 702,
+                "postalCode": "84122",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza flavio gioia 26 (Via Velia)",
+                    "84122 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d121941735",
+                    "name": "Lounge",
+                    "pluralName": "Lounges",
+                    "shortName": "Lounge",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4fe97c9e108145b9293a908f-16"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c30bcd609a99c740d230b2a",
+            "name": "Castello di Arechi",
+            "location": {
+                "address": "Via Frà Generoso",
+                "lat": 40.68446195903438,
+                "lng": 14.75489616394043,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.68446195903438,
+                        "lng": 14.75489616394043
+                    }
+                ],
+                "distance": 1137,
+                "postalCode": "84125",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Frà Generoso",
+                    "84125 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d190941735",
+                    "name": "History Museum",
+                    "pluralName": "History Museums",
+                    "shortName": "History Museum",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_history_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c30bcd609a99c740d230b2a-17"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "59bd9118b0405605d8e98ca8",
+            "name": "Madìa",
+            "location": {
+                "lat": 40.682037,
+                "lng": 14.775067,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.682037,
+                        "lng": 14.775067
+                    }
+                ],
+                "distance": 589,
+                "postalCode": "84135",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "84135 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-59bd9118b0405605d8e98ca8-18"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4b38bd1ef964a520e44f25e3",
+            "name": "Kikko Kaiten Sushi",
+            "location": {
+                "address": "Via dei Greci, 5",
+                "lat": 40.6997364,
+                "lng": 14.776266,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6997364,
+                        "lng": 14.776266
+                    }
+                ],
+                "distance": 2039,
+                "postalCode": "84135",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via dei Greci, 5",
+                    "84135 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d111941735",
+                    "name": "Japanese Restaurant",
+                    "pluralName": "Japanese Restaurants",
+                    "shortName": "Japanese",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4b38bd1ef964a520e44f25e3-19"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4d43f67a3616b60c2a2ddfc2",
+            "name": "Oro Nero",
+            "location": {
+                "address": "Piazza Caduti di Brescia",
+                "crossStreet": "via Trento",
+                "lat": 40.663781580555074,
+                "lng": 14.79604212472557,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.663781580555074,
+                        "lng": 14.79604212472557
+                    }
+                ],
+                "distance": 3146,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Caduti di Brescia (via Trento)",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16d941735",
+                    "name": "Café",
+                    "pluralName": "Cafés",
+                    "shortName": "Café",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4d43f67a3616b60c2a2ddfc2-20"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e18212518a8166f73887ae7",
+            "name": "Corso Vittorio Emanuele",
+            "location": {
+                "address": "Corso Vittorio Emanuele",
+                "lat": 40.67656566745157,
+                "lng": 14.767650438891527,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67656566745157,
+                        "lng": 14.767650438891527
+                    }
+                ],
+                "distance": 660,
+                "postalCode": "84100",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Corso Vittorio Emanuele",
+                    "84100 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d162941735",
+                    "name": "Other Great Outdoors",
+                    "pluralName": "Other Great Outdoors",
+                    "shortName": "Other Outdoors",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/outdoors_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e18212518a8166f73887ae7-21"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c023ca2310fc9b65b34c461",
+            "name": "Villa Comunale",
+            "location": {
+                "address": "Via Roma",
+                "crossStreet": "Lungomare Trieste",
+                "lat": 40.67840865193191,
+                "lng": 14.753501415252686,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67840865193191,
+                        "lng": 14.753501415252686
+                    }
+                ],
+                "distance": 1314,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma (Lungomare Trieste)",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d15a941735",
+                    "name": "Garden",
+                    "pluralName": "Gardens",
+                    "shortName": "Garden",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c023ca2310fc9b65b34c461-22"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "5049ccab72dae364d5318875",
+            "name": "Sweety Gelato Salerno - Gelato espresso Self-service",
+            "location": {
+                "address": "via roma",
+                "lat": 40.678398066478216,
+                "lng": 14.757925962343881,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.678398066478216,
+                        "lng": 14.757925962343881
+                    }
+                ],
+                "distance": 973,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "via roma",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c9941735",
+                    "name": "Ice Cream Shop",
+                    "pluralName": "Ice Cream Shops",
+                    "shortName": "Ice Cream",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-5049ccab72dae364d5318875-23"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c12d87b7f7f2d7f231cde68",
+            "name": "Via vai",
+            "location": {
+                "address": "Via Roma",
+                "lat": 40.67868318112673,
+                "lng": 14.75739727030815,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67868318112673,
+                        "lng": 14.75739727030815
+                    }
+                ],
+                "distance": 999,
+                "postalCode": "84100",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma",
+                    "84100 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16c941735",
+                    "name": "Burger Joint",
+                    "pluralName": "Burger Joints",
+                    "shortName": "Burgers",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c12d87b7f7f2d7f231cde68-24"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "52e647f5498e190155261538",
+            "name": "Centro storico Salerno",
+            "location": {
+                "address": "Piazza Sedile Del Campo",
+                "lat": 40.678616910824516,
+                "lng": 14.75693933257401,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.678616910824516,
+                        "lng": 14.75693933257401
+                    }
+                ],
+                "distance": 1037,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Sedile Del Campo",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4deefb944765f83613cdba6e",
+                    "name": "Historic Site",
+                    "pluralName": "Historic Sites",
+                    "shortName": "Historic Site",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-52e647f5498e190155261538-25"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4d44599e1911a0938a2ad7d8",
+            "name": "Disclan",
+            "location": {
+                "address": "Piazza Portanova",
+                "crossStreet": "Via Mercanti",
+                "lat": 40.67802232909199,
+                "lng": 14.762495238339428,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67802232909199,
+                        "lng": 14.762495238339428
+                    }
+                ],
+                "distance": 687,
+                "postalCode": "84123",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Portanova (Via Mercanti)",
+                    "84123 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d10d951735",
+                    "name": "Record Shop",
+                    "pluralName": "Record Shops",
+                    "shortName": "Record Shop",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/record_shop_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4d44599e1911a0938a2ad7d8-26"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4efa1c2af9ab2e6684548f69",
+            "name": "Luci d'artista",
+            "location": {
+                "lat": 40.6786980816588,
+                "lng": 14.760631162384303,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6786980816588,
+                        "lng": 14.760631162384303
+                    }
+                ],
+                "distance": 759,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f2931735",
+                    "name": "Performing Arts Venue",
+                    "pluralName": "Performing Arts Venues",
+                    "shortName": "Performing Arts",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4efa1c2af9ab2e6684548f69-27"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c8be510cf3ea1438530f051",
+            "name": "Dedicato a Mio Padre",
+            "location": {
+                "address": "Piazza S.Agostino",
+                "lat": 40.67845850780409,
+                "lng": 14.75908640074884,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67845850780409,
+                        "lng": 14.75908640074884
+                    }
+                ],
+                "distance": 884,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza S.Agostino",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ce941735",
+                    "name": "Seafood Restaurant",
+                    "pluralName": "Seafood Restaurants",
+                    "shortName": "Seafood",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c8be510cf3ea1438530f051-28"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c758c993adda143d0aa07af",
+            "name": "Teatro Verdi",
+            "location": {
+                "address": "Via Roma, 254-260",
+                "lat": 40.679121309680745,
+                "lng": 14.751931574179546,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.679121309680745,
+                        "lng": 14.751931574179546
+                    }
+                ],
+                "distance": 1416,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma, 254-260",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d137941735",
+                    "name": "Theater",
+                    "pluralName": "Theaters",
+                    "shortName": "Theater",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c758c993adda143d0aa07af-29"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "51dc317d498e45fad4b90f8e",
+            "name": "Stadio Vestuti",
+            "location": {
+                "lat": 40.67975943510401,
+                "lng": 14.770010920556338,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67975943510401,
+                        "lng": 14.770010920556338
+                    }
+                ],
+                "distance": 343,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d188941735",
+                    "name": "Soccer Stadium",
+                    "pluralName": "Soccer Stadiums",
+                    "shortName": "Soccer",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-51dc317d498e45fad4b90f8e-30"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4d4d32579ee1a35ddaea22df",
+            "name": "Costiera Amalfitana",
+            "location": {
+                "lat": 40.644106241477296,
+                "lng": 14.693832923110316,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.644106241477296,
+                        "lng": 14.693832923110316
+                    }
+                ],
+                "distance": 7589,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e0941735",
+                    "name": "Harbor / Marina",
+                    "pluralName": "Harbors / Marinas",
+                    "shortName": "Harbor / Marina",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/harbor_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4d4d32579ee1a35ddaea22df-31"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c608b64de6920a16d409664",
+            "name": "Cercopiteco",
+            "location": {
+                "address": "Largo Dogana Regia, 14",
+                "crossStreet": "Via Masuccio Salernitano",
+                "lat": 40.67816921176694,
+                "lng": 14.760239841155512,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67816921176694,
+                        "lng": 14.760239841155512
+                    }
+                ],
+                "distance": 820,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Largo Dogana Regia, 14 (Via Masuccio Salernitano)",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11e941735",
+                    "name": "Cocktail Bar",
+                    "pluralName": "Cocktail Bars",
+                    "shortName": "Cocktail",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c608b64de6920a16d409664-32"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cc13da856bda093bdd6ea35",
+            "name": "Ristorante Acquapazza",
+            "location": {
+                "address": "Corso Garibaldi, 38",
+                "lat": 40.646872053122024,
+                "lng": 14.701603346408007,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.646872053122024,
+                        "lng": 14.701603346408007
+                    }
+                ],
+                "distance": 6874,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Cetara",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Corso Garibaldi, 38",
+                    "84010 Cetara Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cc13da856bda093bdd6ea35-33"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4dbe9ed1a86e0e98a214e2ef",
+            "name": "Giardino della Minerva",
+            "location": {
+                "lat": 40.68090554976658,
+                "lng": 14.753961624386875,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.68090554976658,
+                        "lng": 14.753961624386875
+                    }
+                ],
+                "distance": 1207,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4deefb944765f83613cdba6e",
+                    "name": "Historic Site",
+                    "pluralName": "Historic Sites",
+                    "shortName": "Historic Site",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4dbe9ed1a86e0e98a214e2ef-34"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4dbff6f5f7b115b875d51c92",
+            "name": "Al Convento",
+            "location": {
+                "address": "Piazza S.Francesco",
+                "lat": 40.647324899927604,
+                "lng": 14.700757622660184,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.647324899927604,
+                        "lng": 14.700757622660184
+                    }
+                ],
+                "distance": 6904,
+                "cc": "IT",
+                "city": "Cetara",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza S.Francesco",
+                    "Cetara Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4dbff6f5f7b115b875d51c92-35"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4ff5f9abe4b0cdc6b7be7e7d",
+            "name": "Terzo Tempo",
+            "location": {
+                "address": "via Calderulo, 4",
+                "lat": 40.6954322839861,
+                "lng": 14.833069305114364,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6954322839861,
+                        "lng": 14.833069305114364
+                    }
+                ],
+                "distance": 5668,
+                "cc": "IT",
+                "city": "San Mango Piemonte",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "via Calderulo, 4",
+                    "San Mango Piemonte Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4cce455aebf7b749d5e191f5",
+                    "name": "Soccer Field",
+                    "pluralName": "Soccer Fields",
+                    "shortName": "Soccer Field",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4ff5f9abe4b0cdc6b7be7e7d-36"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c48b4f2b5eec9b613b0c6a3",
+            "name": "Pizzeria Pummarola 'ncoppa",
+            "location": {
+                "address": "Lungomare Colombo, 341",
+                "lat": 40.658013051311265,
+                "lng": 14.801364109462055,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.658013051311265,
+                        "lng": 14.801364109462055
+                    }
+                ],
+                "distance": 3912,
+                "postalCode": "84129",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Lungomare Colombo, 341",
+                    "84129 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c48b4f2b5eec9b613b0c6a3-37"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c0a9a5a009a0f4797b0e9bf",
+            "name": "Pizzeria Carminuccio",
+            "location": {
+                "address": "Via Picenza, 117",
+                "lat": 40.655002536675575,
+                "lng": 14.811571736750397,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.655002536675575,
+                        "lng": 14.811571736750397
+                    }
+                ],
+                "distance": 4777,
+                "postalCode": "84131",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Picenza, 117",
+                    "84131 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c0a9a5a009a0f4797b0e9bf-38"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "57cdc82c498e231d205cdda9",
+            "name": "Re Denari",
+            "location": {
+                "address": "Via Pietro del Pezzo 60",
+                "lat": 40.672426,
+                "lng": 14.792275,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.672426,
+                        "lng": 14.792275
+                    }
+                ],
+                "distance": 2327,
+                "postalCode": "84133",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Pietro del Pezzo 60",
+                    "84133 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-57cdc82c498e231d205cdda9-39"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4de2979c7d8b2547eb07e1fe",
+            "name": "Bar Verdi",
+            "location": {
+                "address": "p.zza M. Luciani",
+                "lat": 40.679419431900534,
+                "lng": 14.752643286044744,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.679419431900534,
+                        "lng": 14.752643286044744
+                    }
+                ],
+                "distance": 1350,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "p.zza M. Luciani",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d116941735",
+                    "name": "Bar",
+                    "pluralName": "Bars",
+                    "shortName": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4de2979c7d8b2547eb07e1fe-40"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cdf019dcf9060fcb3c8d58d",
+            "name": "Portovecchio",
+            "location": {
+                "address": "Molo Manfredi, 38",
+                "lat": 40.67735,
+                "lng": 14.75181,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.67735,
+                        "lng": 14.75181
+                    }
+                ],
+                "distance": 1490,
+                "postalCode": "84121",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Molo Manfredi, 38",
+                    "84121 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ce941735",
+                    "name": "Seafood Restaurant",
+                    "pluralName": "Seafood Restaurants",
+                    "shortName": "Seafood",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cdf019dcf9060fcb3c8d58d-41"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4ca4a474554b236ab5e93048",
+            "name": "Hotel Cetus",
+            "location": {
+                "lat": 40.64968260596749,
+                "lng": 14.704516875785995,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64968260596749,
+                        "lng": 14.704516875785995
+                    }
+                ],
+                "distance": 6494,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4ca4a474554b236ab5e93048-42"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4deaa75bd22da22d4eda5fba",
+            "name": "Pizzeria L'angelo & Il Diavolo",
+            "location": {
+                "address": "Via matteo lecce 16",
+                "lat": 40.69952767426434,
+                "lng": 14.829663978808584,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.69952767426434,
+                        "lng": 14.829663978808584
+                    }
+                ],
+                "distance": 5530,
+                "cc": "IT",
+                "city": "Sordina",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via matteo lecce 16",
+                    "Sordina Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4deaa75bd22da22d4eda5fba-43"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4bcf290c0ffdce72b142b2c0",
+            "name": "Hotel Raito",
+            "location": {
+                "address": "Via Nuova Raito 9",
+                "lat": 40.66840287648519,
+                "lng": 14.717160982588114,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.66840287648519,
+                        "lng": 14.717160982588114
+                    }
+                ],
+                "distance": 4578,
+                "postalCode": "84019",
+                "cc": "IT",
+                "city": "Vietri sul Mare",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Nuova Raito 9",
+                    "84019 Vietri sul Mare Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4bcf290c0ffdce72b142b2c0-44"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e69d2bda809290267ba51fd",
+            "name": "Mediateca Marte",
+            "location": {
+                "address": "Corso Umberto 137",
+                "lat": 40.69814549737807,
+                "lng": 14.709399222121643,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.69814549737807,
+                        "lng": 14.709399222121643
+                    }
+                ],
+                "distance": 5253,
+                "postalCode": "84013",
+                "cc": "IT",
+                "city": "Cava de' Tirreni",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Corso Umberto 137",
+                    "84013 Cava de' Tirreni Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d171941735",
+                    "name": "Event Space",
+                    "pluralName": "Event Spaces",
+                    "shortName": "Event Space",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e69d2bda809290267ba51fd-45"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c30aa86452620a1f1691f0f",
+            "name": "Zeppola Dorata",
+            "location": {
+                "address": "via mar Ionio",
+                "lat": 40.684272975362234,
+                "lng": 14.722151934909663,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.684272975362234,
+                        "lng": 14.722151934909663
+                    }
+                ],
+                "distance": 3885,
+                "postalCode": "84098",
+                "cc": "IT",
+                "city": "Pontecagnano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "via mar Ionio",
+                    "84098 Pontecagnano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1bc941735",
+                    "name": "Cupcake Shop",
+                    "pluralName": "Cupcake Shops",
+                    "shortName": "Cupcakes",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cupcakes_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c30aa86452620a1f1691f0f-46"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4be712822457a5930982ad15",
+            "name": "Jacaré",
+            "location": {
+                "address": "Via Nicotera 93",
+                "lat": 40.724202744342016,
+                "lng": 14.758286068975016,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.724202744342016,
+                        "lng": 14.758286068975016
+                    }
+                ],
+                "distance": 4716,
+                "postalCode": "84080",
+                "cc": "IT",
+                "city": "Pellezzano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Nicotera 93",
+                    "84080 Pellezzano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16b941735",
+                    "name": "Brazilian Restaurant",
+                    "pluralName": "Brazilian Restaurants",
+                    "shortName": "Brazilian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/argentinian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4be712822457a5930982ad15-47"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c5b0213b05c1b8de9a6d9b1",
+            "name": "La Cuopperia del Convento",
+            "location": {
+                "address": "Marina di Cetara",
+                "lat": 40.64679670841182,
+                "lng": 14.702220781150713,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64679670841182,
+                        "lng": 14.702220781150713
+                    }
+                ],
+                "distance": 6837,
+                "cc": "IT",
+                "city": "Cetara",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Marina di Cetara",
+                    "Cetara Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ce941735",
+                    "name": "Seafood Restaurant",
+                    "pluralName": "Seafood Restaurants",
+                    "shortName": "Seafood",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c5b0213b05c1b8de9a6d9b1-48"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cb1c1cacbab236add39ab73",
+            "name": "Cetara",
+            "location": {
+                "lat": 40.64672598610045,
+                "lng": 14.701959721486572,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64672598610045,
+                        "lng": 14.701959721486572
+                    }
+                ],
+                "distance": 6859,
+                "cc": "IT",
+                "city": "Cetara",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Cetara Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e2941735",
+                    "name": "Beach",
+                    "pluralName": "Beaches",
+                    "shortName": "Beach",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cb1c1cacbab236add39ab73-49"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "51fc1a6c498e00ae5d245ca9",
+            "name": "Tenuta Na.Ri.",
+            "location": {
+                "address": "Via Gioacchino Trezza 1",
+                "lat": 40.687511,
+                "lng": 14.703928,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.687511,
+                        "lng": 14.703928
+                    }
+                ],
+                "distance": 5446,
+                "postalCode": "84013",
+                "cc": "IT",
+                "city": "Cava de' Tirreni",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Gioacchino Trezza 1",
+                    "84013 Cava de' Tirreni Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-51fc1a6c498e00ae5d245ca9-50"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "57ac818f498e6d82ef4640d5",
+            "name": "Sal De Riso",
+            "location": {
+                "address": "Via Roma, 80",
+                "lat": 40.649535052521834,
+                "lng": 14.627120892030689,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.649535052521834,
+                        "lng": 14.627120892030689
+                    }
+                ],
+                "distance": 12457,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Minori",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma, 80",
+                    "84010 Minori Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "5744ccdfe4b0c0459246b4e2",
+                    "name": "Pastry Shop",
+                    "pluralName": "Pastry Shops",
+                    "shortName": "Pastry",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-57ac818f498e6d82ef4640d5-51"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e919ab95c5c4562f06da482",
+            "name": "Agriturismo Villa Maria",
+            "location": {
+                "address": "Via Pioppi",
+                "lat": 40.6543588480588,
+                "lng": 14.628978417366,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6543588480588,
+                        "lng": 14.628978417366
+                    }
+                ],
+                "distance": 12158,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Minori",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Pioppi",
+                    "84010 Minori Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "55a5a1ebe4b013909087cb7c",
+                    "name": "Agriturismo",
+                    "pluralName": "Agriturismos",
+                    "shortName": "Agriturismo",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e919ab95c5c4562f06da482-52"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c42d660ff711b8def1d1405",
+            "name": "Erchie Beach",
+            "location": {
+                "lat": 40.63748615317771,
+                "lng": 14.694003769391664,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63748615317771,
+                        "lng": 14.694003769391664
+                    }
+                ],
+                "distance": 8016,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e2941735",
+                    "name": "Beach",
+                    "pluralName": "Beaches",
+                    "shortName": "Beach",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c42d660ff711b8def1d1405-53"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c18c381d4d9c928a3d5ef29",
+            "name": "Villa Cimbrone",
+            "location": {
+                "address": "Via S. Chiara",
+                "lat": 40.64424707342647,
+                "lng": 14.611064386441166,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64424707342647,
+                        "lng": 14.611064386441166
+                    }
+                ],
+                "distance": 13928,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via S. Chiara",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c18c381d4d9c928a3d5ef29-54"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "576b813b498e370a3787418c",
+            "name": "Ravello",
+            "location": {
+                "lat": 40.647929,
+                "lng": 14.608025,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.647929,
+                        "lng": 14.608025
+                    }
+                ],
+                "distance": 14054,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "56aa371be4b08b9a8d5734c3",
+                    "name": "Waterfront",
+                    "pluralName": "Waterfronts",
+                    "shortName": "Waterfront",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-576b813b498e370a3787418c-55"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4bf1397517880f47580a2a37",
+            "name": "Belmond Hotel Caruso",
+            "location": {
+                "address": "Piazza San Giovanni del Toro 2",
+                "lat": 40.6514196,
+                "lng": 14.6129924,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6514196,
+                        "lng": 14.6129924
+                    }
+                ],
+                "distance": 13547,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza San Giovanni del Toro 2",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            },
+            "venuePage": {
+                "id": "91014294"
+            }
+        },
+        "referralId": "e-0-4bf1397517880f47580a2a37-56"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c947ddd38dd8cfa9c9bc962",
+            "name": "Cattedrale di Amalfi - Chiostro del Paradiso",
+            "location": {
+                "address": "Piazza Duomo, 1",
+                "lat": 40.63433236521795,
+                "lng": 14.602586762005892,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63433236521795,
+                        "lng": 14.602586762005892
+                    }
+                ],
+                "distance": 14971,
+                "postalCode": "84011",
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Duomo, 1",
+                    "84011 Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d132941735",
+                    "name": "Church",
+                    "pluralName": "Churches",
+                    "shortName": "Church",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c947ddd38dd8cfa9c9bc962-57"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "594b5c066eda025192de3e96",
+            "name": "Baffone Gelateria",
+            "location": {
+                "address": "48 Via Roma",
+                "lat": 40.650626,
+                "lng": 14.611439,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.650626,
+                        "lng": 14.611439
+                    }
+                ],
+                "distance": 13696,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "48 Via Roma",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c9941735",
+                    "name": "Ice Cream Shop",
+                    "pluralName": "Ice Cream Shops",
+                    "shortName": "Ice Cream",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-594b5c066eda025192de3e96-58"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "5169c63de4b05c77bf87e070",
+            "name": "Duomo Di Ravello",
+            "location": {
+                "address": "Piazza Vescovado",
+                "lat": 40.6493115549863,
+                "lng": 14.611366429148058,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.6493115549863,
+                        "lng": 14.611366429148058
+                    }
+                ],
+                "distance": 13741,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Vescovado",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d132941735",
+                    "name": "Church",
+                    "pluralName": "Churches",
+                    "shortName": "Church",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-5169c63de4b05c77bf87e070-59"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e5620e2fa763b20fd08163c",
+            "name": "Costa Amalfitana",
+            "location": {
+                "address": "Amalfi Coast",
+                "lat": 40.633827866853,
+                "lng": 14.602337989262606,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.633827866853,
+                        "lng": 14.602337989262606
+                    }
+                ],
+                "distance": 15011,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Amalfi Coast",
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "56aa371be4b08b9a8d5734c3",
+                    "name": "Waterfront",
+                    "pluralName": "Waterfronts",
+                    "shortName": "Waterfront",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/river_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e5620e2fa763b20fd08163c-60"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "51879c91498ecc6faa3521f5",
+            "name": "Amalfi Beach",
+            "location": {
+                "lat": 40.63365271135495,
+                "lng": 14.603032348938093,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63365271135495,
+                        "lng": 14.603032348938093
+                    }
+                ],
+                "distance": 14963,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e2941735",
+                    "name": "Beach",
+                    "pluralName": "Beaches",
+                    "shortName": "Beach",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-51879c91498ecc6faa3521f5-61"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4fd32f0be4b0f4325c74c0dd",
+            "name": "Villa Rufolo",
+            "location": {
+                "address": "Piazza Duomo",
+                "lat": 40.64907440460505,
+                "lng": 14.612038573103469,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64907440460505,
+                        "lng": 14.612038573103469
+                    }
+                ],
+                "distance": 13693,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Duomo",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4deefb944765f83613cdba6e",
+                    "name": "Historic Site",
+                    "pluralName": "Historic Sites",
+                    "shortName": "Historic Site",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4fd32f0be4b0f4325c74c0dd-62"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e5583502271abb4407d801c",
+            "name": "Spiaggia di Castiglione",
+            "location": {
+                "address": "Castiglione di Ravello",
+                "lat": 40.636872967615716,
+                "lng": 14.611012021972428,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.636872967615716,
+                        "lng": 14.611012021972428
+                    }
+                ],
+                "distance": 14205,
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Castiglione di Ravello",
+                    "Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1e2941735",
+                    "name": "Beach",
+                    "pluralName": "Beaches",
+                    "shortName": "Beach",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e5583502271abb4407d801c-63"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "545e15eb498e963255a0b722",
+            "name": "Mimi Bar Pizzeria",
+            "location": {
+                "address": "Via San Francesco 12",
+                "lat": 40.64729704341736,
+                "lng": 14.611117174541187,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64729704341736,
+                        "lng": 14.611117174541187
+                    }
+                ],
+                "distance": 13823,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via San Francesco 12",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-545e15eb498e963255a0b722-64"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c176c3bf1c976b0ef1aa272",
+            "name": "Hotel Palazzo Avino",
+            "location": {
+                "address": "Via San Giovanni del Toro, 28",
+                "lat": 40.650713201997036,
+                "lng": 14.613259882742335,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.650713201997036,
+                        "lng": 14.613259882742335
+                    }
+                ],
+                "distance": 13545,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Ravello",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via San Giovanni del Toro, 28",
+                    "84010 Ravello Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            },
+            "venuePage": {
+                "id": "55075411"
+            }
+        },
+        "referralId": "e-0-4c176c3bf1c976b0ef1aa272-65"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cd06a2f3e63721ed5f99dcc",
+            "name": "Pulecenella",
+            "location": {
+                "address": "Via Scavata Case Rosse, 88",
+                "lat": 40.64557779020597,
+                "lng": 14.864201545715332,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.64557779020597,
+                        "lng": 14.864201545715332
+                    }
+                ],
+                "distance": 9094,
+                "postalCode": "84131",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Scavata Case Rosse, 88",
+                    "84131 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cd06a2f3e63721ed5f99dcc-66"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4bcc5e46aeaaeee1b1f03d6d",
+            "name": "Hotel Santa Caterina",
+            "location": {
+                "address": "S.S. Amalfitana 9",
+                "lat": 40.629420780440306,
+                "lng": 14.592968680403905,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.629420780440306,
+                        "lng": 14.592968680403905
+                    }
+                ],
+                "distance": 15927,
+                "postalCode": "84011",
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "S.S. Amalfitana 9",
+                    "84011 Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4bcc5e46aeaaeee1b1f03d6d-67"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "525d143011d28fde5e74a25a",
+            "name": "Ristorante/Pizzeria Mistral",
+            "location": {
+                "address": "Piazza Umberto I",
+                "lat": 40.635968,
+                "lng": 14.608915,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.635968,
+                        "lng": 14.608915
+                    }
+                ],
+                "distance": 14406,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Atrani",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Umberto I",
+                    "84010 Atrani Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-525d143011d28fde5e74a25a-68"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c1609267f7f2d7f4844e368",
+            "name": "Andrea Pansa",
+            "location": {
+                "address": "Via Andrea Mattera 14",
+                "lat": 40.63423873667194,
+                "lng": 14.602605636432015,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63423873667194,
+                        "lng": 14.602605636432015
+                    }
+                ],
+                "distance": 14973,
+                "postalCode": "80070",
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Andrea Mattera 14",
+                    "80070 Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16a941735",
+                    "name": "Bakery",
+                    "pluralName": "Bakeries",
+                    "shortName": "Bakery",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c1609267f7f2d7f4844e368-69"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cfe8fc366ee9eb0fdd1a64e",
+            "name": "Grand Hotel Convento di Amalfi",
+            "location": {
+                "address": "Via Annunziatella 46",
+                "lat": 40.633510454121236,
+                "lng": 14.597705519548754,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.633510454121236,
+                        "lng": 14.597705519548754
+                    }
+                ],
+                "distance": 15389,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Annunziatella 46",
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cfe8fc366ee9eb0fdd1a64e-70"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4ca2fd6c5720b1f746c22def",
+            "name": "Caseificio Taverna Penta",
+            "location": {
+                "address": "Via A. Conforti 1",
+                "lat": 40.63857197925402,
+                "lng": 14.89315741430046,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63857197925402,
+                        "lng": 14.89315741430046
+                    }
+                ],
+                "distance": 11636,
+                "postalCode": "84098",
+                "cc": "IT",
+                "city": "Pontecagnano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via A. Conforti 1",
+                    "84098 Pontecagnano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11e951735",
+                    "name": "Cheese Shop",
+                    "pluralName": "Cheese Shops",
+                    "shortName": "Cheese Shop",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_cheese_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4ca2fd6c5720b1f746c22def-71"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c59e35e6407d13af953b328",
+            "name": "Taverna degli Apostoli",
+            "location": {
+                "lat": 40.63439974106895,
+                "lng": 14.602680881639007,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63439974106895,
+                        "lng": 14.602680881639007
+                    }
+                ],
+                "distance": 14961,
+                "postalCode": "84011",
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "84011 Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c59e35e6407d13af953b328-72"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4efc5856d3e3cbf3b3f684cc",
+            "name": "Piazza Duomo",
+            "location": {
+                "address": "Piazza Duomo",
+                "lat": 40.63431608957168,
+                "lng": 14.60256679479742,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63431608957168,
+                        "lng": 14.60256679479742
+                    }
+                ],
+                "distance": 14973,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Piazza Duomo",
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d164941735",
+                    "name": "Plaza",
+                    "pluralName": "Plazas",
+                    "shortName": "Plaza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4efc5856d3e3cbf3b3f684cc-73"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "5170423a498e907d6937a618",
+            "name": "Taverna Buonvicino",
+            "location": {
+                "lat": 40.63521963227269,
+                "lng": 14.602529575928182,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63521963227269,
+                        "lng": 14.602529575928182
+                    }
+                ],
+                "distance": 14940,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-5170423a498e907d6937a618-74"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "51c1a8f2498e82826870d31b",
+            "name": "Giffoni Film Festival",
+            "location": {
+                "lat": 40.712850417792865,
+                "lng": 14.940490497425412,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.712850417792865,
+                        "lng": 14.940490497425412
+                    }
+                ],
+                "distance": 14935,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d17e941735",
+                    "name": "Indie Movie Theater",
+                    "pluralName": "Indie Movie Theaters",
+                    "shortName": "Indie Movies",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-51c1a8f2498e82826870d31b-75"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4f6dc725e4b0ad1af4c6d2eb",
+            "name": "Media World",
+            "location": {
+                "address": "Via Roberto Wenner 16",
+                "crossStreet": "Via Wenner, 16",
+                "lat": 40.63583736,
+                "lng": 14.83841016,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63583736,
+                        "lng": 14.83841016
+                    }
+                ],
+                "distance": 7887,
+                "postalCode": "84131",
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roberto Wenner 16 (Via Wenner, 16)",
+                    "84131 Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "name": "Electronics Store",
+                    "pluralName": "Electronics Stores",
+                    "shortName": "Electronics",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            },
+            "venuePage": {
+                "id": "454279990"
+            }
+        },
+        "referralId": "e-0-4f6dc725e4b0ad1af4c6d2eb-76"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e620847483bd9a974228c7f",
+            "name": "Bar Nasti",
+            "location": {
+                "address": "Via Barbarulo Attilio, 28",
+                "lat": 40.742030755916424,
+                "lng": 14.639456330074971,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.742030755916424,
+                        "lng": 14.639456330074971
+                    }
+                ],
+                "distance": 12719,
+                "postalCode": "84014",
+                "cc": "IT",
+                "city": "Nocera Inferiore",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Barbarulo Attilio, 28",
+                    "84014 Nocera Inferiore Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16d941735",
+                    "name": "Café",
+                    "pluralName": "Cafés",
+                    "shortName": "Café",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e620847483bd9a974228c7f-77"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c17cb6c834e2d7f24e92780",
+            "name": "Pizzeria Pulcinella",
+            "location": {
+                "lat": 40.643578525990876,
+                "lng": 14.862903956873215,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.643578525990876,
+                        "lng": 14.862903956873215
+                    }
+                ],
+                "distance": 9101,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c17cb6c834e2d7f24e92780-78"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "501cfdf7e4b03b87a1cc26fe",
+            "name": "Monastero Santa Rosa Hotel & Spa",
+            "location": {
+                "address": "Via Roma, 2",
+                "lat": 40.61908,
+                "lng": 14.57489,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.61908,
+                        "lng": 14.57489
+                    }
+                ],
+                "distance": 17780,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Conca dei Marini",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Roma, 2",
+                    "84010 Conca dei Marini Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-501cfdf7e4b03b87a1cc26fe-79"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c7c191d93ef236a354eb70f",
+            "name": "Trattoria da Ciccio",
+            "location": {
+                "address": "Via Nazionale 17",
+                "lat": 40.621811085812475,
+                "lng": 14.579586344728105,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.621811085812475,
+                        "lng": 14.579586344728105
+                    }
+                ],
+                "distance": 17295,
+                "cc": "IT",
+                "city": "Amalfi",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Nazionale 17",
+                    "Amalfi Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "55a5a1ebe4b013909087cb7f",
+                    "name": "Trattoria/Osteria",
+                    "pluralName": "Trattorias/Osterias",
+                    "shortName": "Trattoria/Osteria",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c7c191d93ef236a354eb70f-80"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "50d74ce0e4b0260d0cac36b6",
+            "name": "The Tales pub",
+            "location": {
+                "lat": 40.836083384317355,
+                "lng": 14.839335068739777,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.836083384317355,
+                        "lng": 14.839335068739777
+                    }
+                ],
+                "distance": 18121,
+                "cc": "IT",
+                "city": "Solofra",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Solofra Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11b941735",
+                    "name": "Pub",
+                    "pluralName": "Pubs",
+                    "shortName": "Pub",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-50d74ce0e4b0260d0cac36b6-81"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "501ba30de4b081fddd098888",
+            "name": "Le Bonta Del Capo",
+            "location": {
+                "address": "via 1 maggio n 52",
+                "lat": 40.61707307482816,
+                "lng": 14.567806226835607,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.61707307482816,
+                        "lng": 14.567806226835607
+                    }
+                ],
+                "distance": 18418,
+                "postalCode": "84010",
+                "cc": "IT",
+                "city": "Conca dei Marini",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "via 1 maggio n 52",
+                    "84010 Conca dei Marini Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d110941735",
+                    "name": "Italian Restaurant",
+                    "pluralName": "Italian Restaurants",
+                    "shortName": "Italian",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-501ba30de4b081fddd098888-82"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e678d742271517970385fad",
+            "name": "Lidl",
+            "location": {
+                "address": "Via Amerigo Vespucci",
+                "lat": 40.637306488380176,
+                "lng": 14.894843101501465,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.637306488380176,
+                        "lng": 14.894843101501465
+                    }
+                ],
+                "distance": 11824,
+                "postalCode": "84098",
+                "cc": "IT",
+                "city": "Faiano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Amerigo Vespucci",
+                    "84098 Pontecagnano Faiano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f6941735",
+                    "name": "Department Store",
+                    "pluralName": "Department Stores",
+                    "shortName": "Department Store",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e678d742271517970385fad-83"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e62d116b61cd78088bb9f66",
+            "name": "Antica Caffetteria",
+            "location": {
+                "address": "Via Delle Calabrie, 16",
+                "lat": 40.648945561037415,
+                "lng": 14.853913642354707,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.648945561037415,
+                        "lng": 14.853913642354707
+                    }
+                ],
+                "distance": 8150,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Delle Calabrie, 16",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d16d941735",
+                    "name": "Café",
+                    "pluralName": "Cafés",
+                    "shortName": "Café",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e62d116b61cd78088bb9f66-84"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4bd77c0b304fce72dc9f33ab",
+            "name": "Hotel Palace",
+            "location": {
+                "address": "Via Napoli, 29",
+                "lat": 40.61138198433235,
+                "lng": 14.98118958726744,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.61138198433235,
+                        "lng": 14.98118958726744
+                    }
+                ],
+                "distance": 19660,
+                "postalCode": "84091",
+                "cc": "IT",
+                "city": "Battipaglia",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Napoli, 29",
+                    "84091 Battipaglia Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1fa931735",
+                    "name": "Hotel",
+                    "pluralName": "Hotels",
+                    "shortName": "Hotel",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            },
+            "venuePage": {
+                "id": "35257830"
+            }
+        },
+        "referralId": "e-0-4bd77c0b304fce72dc9f33ab-85"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c7584a2c219224b7bc1a228",
+            "name": "Mermaid Tavern",
+            "location": {
+                "address": "Via Mare Ionio",
+                "lat": 40.611597,
+                "lng": 14.855597019195125,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.611597,
+                        "lng": 14.855597019195125
+                    }
+                ],
+                "distance": 10811,
+                "postalCode": "84098",
+                "cc": "IT",
+                "city": "Faiano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Mare Ionio",
+                    "84098 Pontecagnano Faiano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11b941735",
+                    "name": "Pub",
+                    "pluralName": "Pubs",
+                    "shortName": "Pub",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c7584a2c219224b7bc1a228-86"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e18100ce4cd49a7e3e5e13b",
+            "name": "AquaFarm",
+            "location": {
+                "address": "Via Spineta Nuova",
+                "lat": 40.559661463498315,
+                "lng": 14.904576214556629,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.559661463498315,
+                        "lng": 14.904576214556629
+                    }
+                ],
+                "distance": 17885,
+                "cc": "IT",
+                "city": "Battipaglia",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Spineta Nuova",
+                    "Battipaglia Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d193941735",
+                    "name": "Water Park",
+                    "pluralName": "Water Parks",
+                    "shortName": "Water Park",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/waterpark_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e18100ce4cd49a7e3e5e13b-87"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cf6ab4bdc40a35d70424954",
+            "name": "Mmiez&Sounds",
+            "location": {
+                "address": "Via di Mezzo Est,14",
+                "lat": 40.73896859405623,
+                "lng": 14.572278395438367,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.73896859405623,
+                        "lng": 14.572278395438367
+                    }
+                ],
+                "distance": 17680,
+                "postalCode": "84012",
+                "cc": "IT",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via di Mezzo Est,14",
+                    "84012  Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d11b941735",
+                    "name": "Pub",
+                    "pluralName": "Pubs",
+                    "shortName": "Pub",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cf6ab4bdc40a35d70424954-88"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4da37cc063b5a35db017131a",
+            "name": "Casa del Tortellino",
+            "location": {
+                "address": "Corso Italia, 44",
+                "lat": 40.73800099670774,
+                "lng": 14.573798010078194,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.73800099670774,
+                        "lng": 14.573798010078194
+                    }
+                ],
+                "distance": 17522,
+                "postalCode": "84012",
+                "cc": "IT",
+                "city": "Angri",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Corso Italia, 44",
+                    "84012 Angri Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f5941735",
+                    "name": "Gourmet Shop",
+                    "pluralName": "Gourmet Shops",
+                    "shortName": "Gourmet",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_gourmet_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            },
+            "venuePage": {
+                "id": "34740390"
+            }
+        },
+        "referralId": "e-0-4da37cc063b5a35db017131a-89"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4c421127520fa59364a2caac",
+            "name": "Masseria della Fontana vecchia",
+            "location": {
+                "address": "Località Fontana Vecchia",
+                "lat": 40.720063542762475,
+                "lng": 14.881009301690922,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.720063542762475,
+                        "lng": 14.881009301690922
+                    }
+                ],
+                "distance": 10405,
+                "cc": "IT",
+                "city": "San Cipriano Picentino",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Località Fontana Vecchia",
+                    "San Cipriano Picentino Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4c421127520fa59364a2caac-90"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e5946d6c65bcd7cbe3282d5",
+            "name": "Locanda dei Feudi",
+            "location": {
+                "address": "Via Vigna 21",
+                "lat": 40.69980984713018,
+                "lng": 14.870559015140149,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.69980984713018,
+                        "lng": 14.870559015140149
+                    }
+                ],
+                "distance": 8859,
+                "cc": "IT",
+                "city": "Filetta",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Vigna 21",
+                    "Filetta",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e5946d6c65bcd7cbe3282d5-91"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4e56a1fdfa763b20fd0f9b5d",
+            "name": "Pizzeria \"Naturale\"",
+            "location": {
+                "lat": 40.627885249420935,
+                "lng": 14.959879525382718,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.627885249420935,
+                        "lng": 14.959879525382718
+                    }
+                ],
+                "distance": 17298,
+                "cc": "IT",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4e56a1fdfa763b20fd0f9b5d-92"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "5001e9f4e4b0bfb883d32df5",
+            "name": "La Taverna di Baffone",
+            "location": {
+                "address": "Corso Garibaldi, 11",
+                "lat": 40.713236563010206,
+                "lng": 14.942025315010902,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.713236563010206,
+                        "lng": 14.942025315010902
+                    }
+                ],
+                "distance": 15071,
+                "postalCode": "84095",
+                "cc": "IT",
+                "city": "Giffoni",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Corso Garibaldi, 11",
+                    "84095 Giffoni",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-5001e9f4e4b0bfb883d32df5-93"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "552839ef498e2d7ce0134026",
+            "name": "Mangiafoglia",
+            "location": {
+                "address": "Via Tevere",
+                "lat": 40.646788,
+                "lng": 14.871927,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.646788,
+                        "lng": 14.871927
+                    }
+                ],
+                "distance": 9624,
+                "cc": "IT",
+                "city": "Pontecagnano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Tevere",
+                    "Pontecagnano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-552839ef498e2d7ce0134026-94"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4d8516cb509137041eca8e5b",
+            "name": "Osteria Sul Ponte",
+            "location": {
+                "address": "Via Adige, 20-40",
+                "lat": 40.611559303764864,
+                "lng": 14.980007216007923,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.611559303764864,
+                        "lng": 14.980007216007923
+                    }
+                ],
+                "distance": 19561,
+                "postalCode": "84091",
+                "cc": "IT",
+                "city": "Battipaglia",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Adige, 20-40",
+                    "84091 Battipaglia Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1c4941735",
+                    "name": "Restaurant",
+                    "pluralName": "Restaurants",
+                    "shortName": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4d8516cb509137041eca8e5b-95"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "55a7a272498e39b5dee16684",
+            "name": "Pizzeria Divina Regina",
+            "location": {
+                "address": "Via Tiberio Claudio Felice, 16",
+                "lat": 40.639321,
+                "lng": 14.848192,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.639321,
+                        "lng": 14.848192
+                    }
+                ],
+                "distance": 8295,
+                "cc": "IT",
+                "city": "Salerno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Tiberio Claudio Felice, 16",
+                    "Salerno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1ca941735",
+                    "name": "Pizza Place",
+                    "pluralName": "Pizza Places",
+                    "shortName": "Pizza",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-55a7a272498e39b5dee16684-96"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4fc13666e4b01f4bd208cdf3",
+            "name": "O Priore",
+            "location": {
+                "address": "Via Tortora 60",
+                "lat": 40.811168743916284,
+                "lng": 14.619339332163461,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.811168743916284,
+                        "lng": 14.619339332163461
+                    }
+                ],
+                "distance": 19042,
+                "cc": "IT",
+                "city": "Sarno",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Via Tortora 60",
+                    "Sarno Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1cc941735",
+                    "name": "Steakhouse",
+                    "pluralName": "Steakhouses",
+                    "shortName": "Steakhouse",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4fc13666e4b01f4bd208cdf3-97"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4eb695a68b81a81f91064a8c",
+            "name": "Decathlon",
+            "location": {
+                "address": "Strada Provinciale 323",
+                "lat": 40.63368930674292,
+                "lng": 14.915239999711938,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63368930674292,
+                        "lng": 14.915239999711938
+                    }
+                ],
+                "distance": 13560,
+                "postalCode": "84090",
+                "cc": "IT",
+                "city": "Montecorvino Pugliano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Strada Provinciale 323",
+                    "84090 Montecorvino Pugliano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d1f2941735",
+                    "name": "Sporting Goods Shop",
+                    "pluralName": "Sporting Goods Shops",
+                    "shortName": "Sporting Goods",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4eb695a68b81a81f91064a8c-98"
+    },
+    {
+        "reasons": {
+            "count": 0,
+            "items": [
+                {
+                    "summary": "This spot is popular",
+                    "type": "general",
+                    "reasonName": "globalInteractionReason"
+                }
+            ]
+        },
+        "venue": {
+            "id": "4cff5374ba1da1cd31a48228",
+            "name": "R-Store Pontecagnano (Sa)- Apple Premium Reseller",
+            "location": {
+                "address": "Centro Commerciale MaxiMall",
+                "crossStreet": "Via Pacinotti",
+                "lat": 40.63549547584335,
+                "lng": 14.908318422212124,
+                "labeledLatLngs": [
+                    {
+                        "label": "display",
+                        "lat": 40.63549547584335,
+                        "lng": 14.908318422212124
+                    }
+                ],
+                "distance": 12944,
+                "postalCode": "84098",
+                "cc": "IT",
+                "city": "Faiano",
+                "state": "Campania",
+                "country": "Italia",
+                "formattedAddress": [
+                    "Centro Commerciale MaxiMall (Via Pacinotti)",
+                    "84098 Pontecagnano Faiano Campania",
+                    "Italia"
+                ]
+            },
+            "categories": [
+                {
+                    "id": "4bf58dd8d48988d122951735",
+                    "name": "Electronics Store",
+                    "pluralName": "Electronics Stores",
+                    "shortName": "Electronics",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/technology_",
+                        "suffix": ".png"
+                    },
+                    "primary": true
+                }
+            ],
+            "photos": {
+                "count": 0,
+                "groups": []
+            }
+        },
+        "referralId": "e-0-4cff5374ba1da1cd31a48228-99"
+    }
+]
